@@ -14,3 +14,11 @@ To run this example, you need:
 * MySQL Server
 
 # Setup
+clone this repo to your local Machine using 
+link --> https://github.com/akash-codelink/ManyToOne_Emp-Dept_HIB.git
+
+# Usage
+This example demonstrates how to create, retrieve, update, and delete employees and departments using Hibernate. It includes CRUD operations for both entities and showcases the many-to-one relationship between them.
+
+# Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
